@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ms/static/css/main.668fa4dc.chunk.css",
+    "main.js": "/ms/static/js/main.327ea2ac.chunk.js",
+    "main.js.map": "/ms/static/js/main.327ea2ac.chunk.js.map",
+    "runtime-main.js": "/ms/static/js/runtime-main.a29bc591.js",
+    "runtime-main.js.map": "/ms/static/js/runtime-main.a29bc591.js.map",
+    "static/js/2.f28a06b6.chunk.js": "/ms/static/js/2.f28a06b6.chunk.js",
+    "static/js/2.f28a06b6.chunk.js.map": "/ms/static/js/2.f28a06b6.chunk.js.map",
+    "index.html": "/ms/index.html",
+    "precache-manifest.28629ca8f7d476278c99eacaf91d1fa3.js": "/ms/precache-manifest.28629ca8f7d476278c99eacaf91d1fa3.js",
+    "service-worker.js": "/ms/service-worker.js",
+    "static/css/main.668fa4dc.chunk.css.map": "/ms/static/css/main.668fa4dc.chunk.css.map",
+    "static/js/2.f28a06b6.chunk.js.LICENSE": "/ms/static/js/2.f28a06b6.chunk.js.LICENSE",
+    "static/media/Efeld.svg": "/ms/static/media/Efeld.7d33396d.svg",
+    "static/media/App.css": "/ms/static/media/Magnetfeld.033546f4.svg",
+    "static/media/Skala.svg": "/ms/static/media/Skala.8349afd1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29bc591.js",
+    "static/js/2.f28a06b6.chunk.js",
+    "static/css/main.668fa4dc.chunk.css",
+    "static/js/main.327ea2ac.chunk.js"
+  ]
+}
