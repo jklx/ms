@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ms/static/css/main.668fa4dc.chunk.css",
-    "main.js": "/ms/static/js/main.c7fe4609.chunk.js",
-    "main.js.map": "/ms/static/js/main.c7fe4609.chunk.js.map",
+    "main.css": "/ms/static/css/main.c577dd1a.chunk.css",
+    "main.js": "/ms/static/js/main.6a89cec6.chunk.js",
+    "main.js.map": "/ms/static/js/main.6a89cec6.chunk.js.map",
     "runtime-main.js": "/ms/static/js/runtime-main.a29bc591.js",
     "runtime-main.js.map": "/ms/static/js/runtime-main.a29bc591.js.map",
     "static/js/2.f28a06b6.chunk.js": "/ms/static/js/2.f28a06b6.chunk.js",
     "static/js/2.f28a06b6.chunk.js.map": "/ms/static/js/2.f28a06b6.chunk.js.map",
     "index.html": "/ms/index.html",
-    "precache-manifest.ec63b82de726670aea6dea20e81d9f3e.js": "/ms/precache-manifest.ec63b82de726670aea6dea20e81d9f3e.js",
+    "precache-manifest.50bb612f2d51ed61a29d570029581ab7.js": "/ms/precache-manifest.50bb612f2d51ed61a29d570029581ab7.js",
     "service-worker.js": "/ms/service-worker.js",
-    "static/css/main.668fa4dc.chunk.css.map": "/ms/static/css/main.668fa4dc.chunk.css.map",
+    "static/css/main.c577dd1a.chunk.css.map": "/ms/static/css/main.c577dd1a.chunk.css.map",
     "static/js/2.f28a06b6.chunk.js.LICENSE": "/ms/static/js/2.f28a06b6.chunk.js.LICENSE",
     "static/media/Efeld.svg": "/ms/static/media/Efeld.7d33396d.svg",
     "static/media/App.css": "/ms/static/media/Magnetfeld.033546f4.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a29bc591.js",
     "static/js/2.f28a06b6.chunk.js",
-    "static/css/main.668fa4dc.chunk.css",
-    "static/js/main.c7fe4609.chunk.js"
+    "static/css/main.c577dd1a.chunk.css",
+    "static/js/main.6a89cec6.chunk.js"
   ]
 }
